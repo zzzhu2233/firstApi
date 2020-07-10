@@ -1,13 +1,15 @@
 <?php
 
 
-namespace base\controller;
+namespace baseAll\controller;
 
 
 use think\Controller;
 
-class baseAll extends Controller
+class BaseAll extends Controller
 {
+    protected $userInfo = [];
+
     function check_token($token) {
         /**** api传来的token ****/
         if(!isset($token) || empty($token)) {
@@ -51,7 +53,7 @@ class baseAll extends Controller
      * @param string $key   密钥
      * @return mixed|string
      */
-    function encrypt($string, $operation, $key = 'encrypt')
+    function encryptString($string, $operation, $key = 'encrypt')
     {
         $key = md5($key);
         $key_length = strlen($key);
@@ -87,5 +89,6 @@ class baseAll extends Controller
             return str_replace('=', '', base64_encode($result));
         }
     }
+
 
 }
