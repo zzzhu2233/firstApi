@@ -1,12 +1,12 @@
 <?php
 
 
-namespace base\model;
+namespace baseAll\model;
 
 
 use think\Model;
 
-class baseMod extends Model
+class BaseMod extends Model
 {
 
 }

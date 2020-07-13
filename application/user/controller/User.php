@@ -28,6 +28,8 @@ class User extends BaseAll
     }
 
     public function test2(){
-        dump(1);
+        $model = new \app\user\model\User();
+        $find1 = $model->getOneInfo(1);
+        dump($find1);
     }
 }

@@ -19,7 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47966d76-8755-4cbb-875e-2651b82ba250" name="Default Changelist" comment="" />
+    <list default="true" id="47966d76-8755-4cbb-875e-2651b82ba250" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/123.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/user/controller/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/user/controller/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/user/model/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/user/model/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baseAll/model/BaseMod.php" beforeDir="false" afterPath="$PROJECT_DIR$/baseAll/model/BaseMod.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,6 +80,7 @@
       <workItem from="1594341069555" duration="5378000" />
       <workItem from="1594347337216" duration="12975000" />
       <workItem from="1594374629973" duration="41000" />
+      <workItem from="1594630086065" duration="2361000" />
     </task>
     <servers />
   </component>

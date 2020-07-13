@@ -4,10 +4,10 @@
 namespace app\user\model;
 
 
-use base\model\baseMod;
+use baseAll\model\BaseMod;
 use think\Db;
 
-class User extends baseMod
+class User extends BaseMod
 {
     public function getOneInfo($id){
         $userInfo = Db::table('user')->where('id',$id)->find();
