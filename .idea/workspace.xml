@@ -21,10 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="47966d76-8755-4cbb-875e-2651b82ba250" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/123.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/user/controller/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/user/controller/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/index/controller/Index.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/index/controller/Index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/user/model/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/user/model/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baseAll/model/BaseMod.php" beforeDir="false" afterPath="$PROJECT_DIR$/baseAll/model/BaseMod.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +78,8 @@
       <workItem from="1594341069555" duration="5378000" />
       <workItem from="1594347337216" duration="12975000" />
       <workItem from="1594374629973" duration="41000" />
-      <workItem from="1594630086065" duration="2361000" />
+      <workItem from="1594630086065" duration="2623000" />
+      <workItem from="1594687832122" duration="4013000" />
     </task>
     <servers />
   </component>
@@ -100,10 +99,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="683" y="190" key="NewPhpClassDialog" timestamp="1594352614801">
+    <state x="624" y="216" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1594692526943">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="683" y="190" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594352614801" />
+    <state x="624" y="216" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594692526943" />
+    <state x="683" y="190" key="NewPhpClassDialog" timestamp="1594688002481">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="683" y="190" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594688002481" />
     <state x="586" y="25" width="748" height="990" key="find.popup" timestamp="1594355146036">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
